@@ -145,7 +145,7 @@ export const Page = () => {
     {/* Right side - Text */}
     <div className="sm:w-2/3 text-left">
       <p className="text-lg leading-8 text-gray-600">
-       My full name is Sofia Aristizabal Madrid, I'm 20 years old and I was born and raised in Medellin, Antioquia, Colombia. I'm currently a fourth
+       My full name is <span className="text-indigo-600 ">Sofia Aristizabal Madrid</span>, I'm 20 years old and I was born and raised in Medellin, Antioquia, Colombia. I'm currently a fourth
        semester software engineering student at the university EIA. I'm passionate and compromised with the work I do. I take interest in the areas of ciber security and AI. 
       </p>
     </div>
